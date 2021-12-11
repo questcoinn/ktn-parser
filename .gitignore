@@ -1,0 +1,9 @@
+.vscode/
+bin/
+
+build/*
+!build/*
+build/*/*
+!build/*/*.ps1
+
+lab/
